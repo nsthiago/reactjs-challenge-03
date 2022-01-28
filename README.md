@@ -27,7 +27,7 @@ Os dados da aplicação serão simulados utilizando o Fake API com JSON Server e
 
 ```bash
 # Abra um terminal e copie este repositório com o comando
-git clone https://github.com/nsthiago/reactjs-challenge-02
+git clone https://github.com/nsthiago/reactjs-challenge-03
 # ou use a opção de download.
 
 # Entre na pasta da aplicação 
@@ -38,7 +38,7 @@ yarn install
 yarn server
 
 # Rode a aplicação
-yarn dev
+yarn start
 
 # Acesse http://localhost:3000 no seu navagador
 ```
